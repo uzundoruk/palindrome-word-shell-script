@@ -1,0 +1,1 @@
+# palindrome-word-shell-script
